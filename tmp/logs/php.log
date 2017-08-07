@@ -1,0 +1,4 @@
+[29-Nov-2015 18:42:57 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/u983521409/public_html/radio/index.php on line 55
+[29-Nov-2015 18:42:57 UTC] PHP Warning:  array_change_key_case() expects parameter 1 to be array, null given in /home/u983521409/public_html/radio/inc/functions.php on line 286
+[29-Nov-2015 18:43:03 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/u983521409/public_html/radio/index.php on line 55
+[29-Nov-2015 18:43:03 UTC] PHP Warning:  array_change_key_case() expects parameter 1 to be array, null given in /home/u983521409/public_html/radio/inc/functions.php on line 286
